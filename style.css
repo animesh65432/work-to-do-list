@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(42, 80, 4);
+    text-align: center;
+}
+form{
+    box-shadow: inset;
+}
+div{
+    text-align: left;
+    color: rgb(4, 7, 7);
+}
